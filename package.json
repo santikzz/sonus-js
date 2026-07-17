@@ -1,6 +1,6 @@
 {
   "name": "sonus-js",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Synthesized UI sounds for React - one hook, zero audio files, real-time pitch/rate/volume control.",
   "keywords": [
     "react",

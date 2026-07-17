@@ -4,3 +4,4 @@ dist/
 *.tgz
 *.log
 demo-full.png
+demo/
