@@ -1,0 +1,6 @@
+node_modules/
+dist/
+.playwright-mcp/
+*.tgz
+*.log
+demo-full.png
