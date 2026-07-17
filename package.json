@@ -1,6 +1,6 @@
 {
   "name": "sonus-js",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Synthesized UI sounds for React - one hook, zero audio files, real-time pitch/rate/volume control.",
   "keywords": [
     "react",
@@ -12,6 +12,14 @@
     "synthesis"
   ],
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/santikzz/sonus-js.git"
+  },
+  "homepage": "https://github.com/santikzz/sonus-js#readme",
+  "bugs": {
+    "url": "https://github.com/santikzz/sonus-js/issues"
+  },
   "type": "module",
   "sideEffects": false,
   "main": "./dist/index.js",
